@@ -1,0 +1,47 @@
+#deposit {
+    background-color: darkcyan;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px #8b8a8a, -10px -10px 30px #9c9999;
+}
+#withdraw{
+    background-color: darkorchid;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px #8b8a8a, -10px -10px 30px #9c9999;
+}
+#balance{
+    background-color: darkblue;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px #8b8a8a, -10px -10px 30px #9c9999;
+}
+
+#depositt{
+    background-color:darkblue;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px #8b8a8a, -10px -10px 30px #9c9999;
+}
+
+#withdraww{
+    background-color:darkcyan;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px #8b8a8a, -10px -10px 30px #9c9999;
+}
+
+#depo-button{
+    color: white;
+    background-color: #3131b4;
+    border-radius: 15px;
+    padding: 3px 10px;
+}
+
+#wdr-button{
+    color: white;
+    background-color: #14b3b3;
+    border-radius: 15px;
+    padding: 3px 10px;
+}
+
